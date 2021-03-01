@@ -1,0 +1,16 @@
+{
+  "name": "addition",
+  "version": "1.0.0",
+  "description": "This Calculator will add 2 numbers.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kartikeya Rawat",
+  "license": "ISC"
+}
